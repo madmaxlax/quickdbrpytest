@@ -1,1 +1,3 @@
-import myfunc from ./app/func.py
+import myfunc from ./path/func.py
+
+print(func())
